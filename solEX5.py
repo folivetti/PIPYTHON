@@ -20,6 +20,5 @@ url = 'https://translate.yandex.net/api/v1.5/tr.json/translate?key=' + APIKEY + 
 
 # o comando urlopen(url) abre a pagina
 saida = ur.urlopen(url)
-
 # o comando saida.read() recupera o conteudo
 print saida.read()
