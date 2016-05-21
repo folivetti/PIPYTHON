@@ -1,0 +1,3 @@
+Esse exemplo será usado para aprender o mínimo sobre leituras de arquivos textos
+e como o texto pode ser usado em uma estrutura de dicionário
+Se o resultado for correto teremos a ocorrência da palavra o em quatro vezes

@@ -17,6 +17,8 @@ Processamento da Informação em Python
    
   * #### Exercícios  
 
+---
+
 * ### Funções
   
   * #### Definição
@@ -29,6 +31,8 @@ Processamento da Informação em Python
   
   * #### Exercícios Avançados
 
+---
+
 * ### Condicionais
 
   * #### Definição
@@ -40,6 +44,9 @@ Processamento da Informação em Python
   * #### Exercícios Básicos
   
   * #### Exercícios Avançados
+  
+---
+
 
 * ### Laços de Repetição
 
@@ -48,6 +55,8 @@ Processamento da Informação em Python
   * #### Exercícios Básicos
 
   * #### Exercícios Avançados
+  
+---  
 
 * ### Listas
   
@@ -60,6 +69,8 @@ Processamento da Informação em Python
   * #### Exercícios Básicos
 
   * #### Exercícios Avançados
+  
+---  
 
 * ### Arrays
 
@@ -77,6 +88,8 @@ Processamento da Informação em Python
 
   * #### Exercícios Avançados
    
+---
+---
 
 ## Conteúdo Opcional:
 
@@ -85,20 +98,8 @@ Processamento da Informação em Python
   * #### Definição
   
   * #### Arquivos CSV
-   
-* ### Manipulando Tabelas de Dados
 
-  * #### Pandas
-  
-  * #### Exemplo
-  
-* ### Introdução a Aprendizado de Máquinas  
-
-  * #### Scikit-Learn
-
-  * #### Classificação
-
-  * #### Regressão
+---  
 
 * ### Recursividade
 
@@ -112,6 +113,9 @@ Processamento da Informação em Python
 
   * #### Exercícios Avançados
   
+---
+
+  
 * ### Dicionários
 
   * #### Definição
@@ -121,3 +125,22 @@ Processamento da Informação em Python
   * #### Exercícios Básicos
 
   * #### Exercícios Avançados
+
+---
+
+   
+* ### Manipulando Tabelas de Dados
+
+  * #### Pandas
+  
+  * #### Exemplo
+  
+---  
+  
+* ### Introdução a Aprendizado de Máquinas  
+
+  * #### Scikit-Learn
+
+  * #### Classificação
+
+  * #### Regressão
